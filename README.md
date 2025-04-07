@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Web Developer** specializing in **React.js** and *
 - 🌱 I’m currently deepening my skills in **Node.js**, **MongoDB**, and **performance optimization**.
 - 💼 I’ve worked on 15+ projects, including e-commerce, booking systems, and automation tools.
 - 💡 I’m looking to collaborate on **open-source projects**, **startup ideas**, or anything that solves real-world problems.
-- 📫 Reach me at **rajofficial2003@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumar-dev).
+- 📫 Reach me at **rajofficial2003@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumar-d-521ab531b/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I automate everything I can — from order systems to QR generation!
 
